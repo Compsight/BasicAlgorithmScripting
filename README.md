@@ -1,21 +1,23 @@
-# BasicAlgorithmScripting
+# JavaScriptFoundationDevelopment
 Complete Basic Algorithm Scripting on FreeCodeCamp
 
 ## Description
 
 Complete the basic algorithm scripting section here:
 https://www.freecodecamp.com/map
-
+https://teamtreehouse.com/tracks/full-stack-javascript
 
 ## Specifications
 
-Listed in the link above
+Use links above to complete:
+# FreeCodeCamp
+[]
 
 ### Required
 
 _Do not remove these specs - they are required for all goals_.
 
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ## Quality Rubric
 
