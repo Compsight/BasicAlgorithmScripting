@@ -12,10 +12,10 @@ https://teamtreehouse.com/tracks/full-stack-javascript
 Use links above to complete the following courses:
 
 ### FreeCodeCamp
- [x] - Basic Algorithms (50 Hours)
+ - [x] Basic Algorithms (50 Hours)
 
 #### Optional:
-  -
+ - [x] Basic JavaScript (10 Hours) 
 
 ### TreeHouse
 (Level - Time)
