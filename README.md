@@ -18,7 +18,8 @@ Use links above to complete:
  [ ] - Basic JavaScript (10 Hours)
 
 ### TreeHouse
- [ ] - Understanding "this" in JavaScript (13 Minutes)
+
+ [x] - Understanding "this" in JavaScript (13 Minutes)
  [ ] - The Module Pattern in JavaScript (16 Minutes)
  [ ] - npm Basics (76 Minutes)
  [ ] - Interactive Web Pages with JavaScript (2 Hours)
