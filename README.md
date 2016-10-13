@@ -16,11 +16,12 @@ Use links above to complete:
 
  Optional:
  [ ] - Basic JavaScript (10 Hours)
-
+     - [x] Introducing JavaScript
+     - [ ] Creating Reusable Code with Functions
 ### TreeHouse
 
  [x] - Understanding "this" in JavaScript (13 Minutes)
- [ ] - The Module Pattern in JavaScript (16 Minutes)
+ [x] - The Module Pattern in JavaScript (16 Minutes)
  [ ] - npm Basics (76 Minutes)
  [ ] - Interactive Web Pages with JavaScript (2 Hours)
 
