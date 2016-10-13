@@ -28,15 +28,15 @@ II  - Intermediate
  - [x] The Module Pattern in JavaScript (II - 16 Minutes)
  - [x] npm Basics (I - 76 Minutes)
  - [ ] Introducing ES2015 (II - 112 Minutes)
- - [ ] Interactive Web Pages with JavaScript (II - 2 Hours)
 
 #### Optional:
- - [.] Basic JavaScript (I - 10 Hours)
+ - [ ] Basic JavaScript (I - 10 Hours)
      - [x] Introducing JavaScript
      - [x] Creating Reusable Code with Functions
  - [ ] Git Basics (I - 4 Hours)
  - [ ] jQuery Basics (I - 5 Hours)
  - [ ] Object-Oriented JavaScript (II - 2 Hours)
+ - [ ] Interactive Web Pages with JavaScript (II - 2 Hours)
  - [ ] JavaScript Unit Testing (II - 3 Hours)
  - [ ] Express Basics (II - 3 Hours)
 
