@@ -14,7 +14,7 @@ Use links above to complete:
 ### FreeCodeCamp
  [x] - Basic Algorithms (50 Hours/20 Hours)
 
- Optional:
+ Optional
  [ ] - Basic JavaScript (10 Hours)
      - [x] Introducing JavaScript
      - [ ] Creating Reusable Code with Functions
@@ -25,7 +25,7 @@ Use links above to complete:
  [ ] - npm Basics (76 Minutes)
  [ ] - Interactive Web Pages with JavaScript (2 Hours)
 
- Optional:
+ Optional
  [ ] - Git Basics (4 Hours)
  [ ] - jQuery Basics (5 Hours)
  [ ] - Express Basics (3 Hours)
