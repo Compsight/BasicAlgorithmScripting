@@ -31,8 +31,7 @@ II  - Intermediate
  - [ ] Interactive Web Pages with JavaScript (II - 2 Hours)
 
 #### Optional:
- - [x] JavaScript and the Internet of Things (I - 13 Minutes)
- - [ ] Basic JavaScript (I - 10 Hours)
+ - [.] Basic JavaScript (I - 10 Hours)
      - [x] Introducing JavaScript
      - [x] Creating Reusable Code with Functions
  - [ ] Git Basics (I - 4 Hours)
