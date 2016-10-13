@@ -10,8 +10,24 @@ https://teamtreehouse.com/tracks/full-stack-javascript
 ## Specifications
 
 Use links above to complete:
-# FreeCodeCamp
-[]
+(Estimated Time/Actual Time)
+### FreeCodeCamp
+ [x] - Basic Algorithms (50 Hours/20 Hours)
+
+ Optional:
+ [ ] - Basic JavaScript (10 Hours)
+
+### TreeHouse
+ [ ] - Understanding "this" in JavaScript (13 Minutes)
+ [ ] - The Module Pattern in JavaScript (16 Minutes)
+ [ ] - npm Basics (76 Minutes)
+ [ ] - Interactive Web Pages with JavaScript (2 Hours)
+
+ Optional:
+ [ ] - Git Basics (4 Hours)
+ [ ] - jQuery Basics (5 Hours)
+ [ ] - Express Basics (3 Hours)
+ [ ] - JavaScript Unit Testing (3 Hours)
 
 ### Required
 
