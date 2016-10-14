@@ -31,7 +31,7 @@ II  - Intermediate
  - [x] Understanding Closures in JavaScript (II - 22 Minutes)
  - [x] The Module Pattern in JavaScript (II - 16 Minutes)
  - [x] npm Basics (I - 76 Minutes)
- - [ ] Introducing ES2015 (II - 112 Minutes)
+ - [x] Introducing ES2015 (II - 112 Minutes)
 
 #### Optional:
  - [ ] Basic JavaScript (I - 10 Hours)
