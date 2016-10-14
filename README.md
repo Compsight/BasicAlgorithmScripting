@@ -1,11 +1,15 @@
 # JavaScriptFoundationDevelopment
-Complete Basic Algorithm Scripting on FreeCodeCamp
+Complete Basic Algorithm Scripting on FreeCodeCamp  
 
 ## Description
 
-Complete the basic algorithm scripting section here:
-https://www.freecodecamp.com/map
-https://teamtreehouse.com/tracks/full-stack-javascript
+Complete the courses listed below using:   
+- FreeCodeCamp: https://www.freecodecamp.com/map.  
+Use web developer tools in Google Chrome to view console output.
+ 
+- Treehouse: https://teamtreehouse.com/tracks/full-stack-javascript   
+Note: Free 7-day trial   
+Interactive challenges and quizzes happen during videos.
 
 ## Specifications
 
